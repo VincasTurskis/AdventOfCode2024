@@ -1,0 +1,10 @@
+2,4 - B = A % 8
+1,2 - B = B XOR 2
+7,5 - C = A // (2**B)
+4,3 - B = B XOR C
+0,3 - A = A // 8
+1,7 - B = B XOR 7
+5,5 - print B % 8
+3,0 - If register A is not 0, jump back to first command
+
+2,4,1,2 - B = (A % 8) XOR 2
