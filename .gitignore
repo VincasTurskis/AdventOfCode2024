@@ -162,5 +162,4 @@ cython_debug/
 #.idea/
 
 # For input files:
-
-*/input.txt
+.txt
