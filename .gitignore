@@ -163,4 +163,4 @@ cython_debug/
 
 # For input files:
 
-input.txt
+*/input.txt
